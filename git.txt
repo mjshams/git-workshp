@@ -1,0 +1,11 @@
+cd Desktop/
+رفتن به یک آدرس
+git init
+دستورات گیت در اینحا اعمال میشود
+touch 1.txt
+فایل 1.txt در آدرس مربوطه ساخته میشود
+git status
+بررسی وضعیت آدرس مربوطه
+git add 1.txt
+
+git commit 1.txt
